@@ -13,6 +13,7 @@ SUPPORTED INPUT (for the moment...)
 ---------------
 - Gaussian .log files
 - ORCA .out files
+- currently working on implementation of Q-Chem, Turbomole and GAMESS output
 Format is auto-detected. Both file types can be mixed in a single batch.
 
 
